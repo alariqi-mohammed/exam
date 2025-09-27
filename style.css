@@ -1,4 +1,11 @@
 
+.content{
+    background-color:khaki;
+    height: 100px;
+    padding: 5px;
+}
+
+
 * {
     margin: 0;
     padding: 0;
@@ -84,8 +91,4 @@ h1{
 }
 p{
     color : red ;
-}
-.content0{
-    background-color: khaki;
-    height: 900px;
 }
