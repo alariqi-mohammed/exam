@@ -1,4 +1,10 @@
 
+.nav{
+
+    background-color: pink;
+    padding: 20px;
+}
+
 * {
     margin: 0;
     padding: 0;
